@@ -1,5 +1,7 @@
 ## Introduction to Numerical Analysis
 
+This is from my course Numerical Analysis.
+
     Part I 
 
     II. Zeros of Functions Methods
