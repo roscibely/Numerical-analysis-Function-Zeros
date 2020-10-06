@@ -24,5 +24,13 @@ This is from my course Numerical Analysis.
 
     III. Least squares method (LSM)
     
+    Part III 
+    
+    I. Integration techniques
+        1. 
+        2. 
+        3. 
+        4. 
+    
     
     
