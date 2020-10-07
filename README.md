@@ -3,7 +3,9 @@
 This is from my course Numerical Analysis.
 
     Part I 
-
+    
+    I. Numerical erros
+    
     II. Zeros of Functions Methods
         1. Bissection method;
         2. Newton method; 
