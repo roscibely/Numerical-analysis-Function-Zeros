@@ -27,10 +27,14 @@ This is from my course Numerical Analysis.
     Part III 
     
     I. Integration techniques
-        1. 
-        2. 
-        3. 
-        4. 
+         1. Newton-Cotes formulas
+            i.   Trapezoid rule or trapezium rule
+            ii.  Simpson's 1/3 rule 
+            iii. Simpson's 3/8 rule 
+            iv.  Boole's Rule
+        2.  Gaussian Quadrature
+        
+    II. Ordinary differential equation (ODE) 
     
     
     
