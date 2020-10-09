@@ -38,5 +38,8 @@ This is from my course Numerical Analysis.
         
     II. Ordinary differential equation (ODE) 
     
+        1. Euler method 
+        2. Runge-kutta methods (2,3, and 4)
+    
     
     
