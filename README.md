@@ -1,6 +1,6 @@
 ## Introduction to Numerical Analysis
 
-This is from my course Numerical Analysis.
+Repository for Numerical analysis (PEX0103, PET1705, PEN2049) subject/course on Information Technology course and Science and Technology course - Ufersa
 
     Part I 
     
